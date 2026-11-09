@@ -7,14 +7,9 @@ Filename: MegaManXFanClub.styles
 
 /*HTML and Body Styles */
 
-body {
-background:blue;
-font-family: "Comic Sans MS", "Comic Sans", cursive;
-font-size: 15px;
-}
-
 html {
-background:white;
+background:blue;
+font-color:blue
 font-family: "Comic Sans MS", "Comic Sans", cursive;
 font-size: 15px;
 }
